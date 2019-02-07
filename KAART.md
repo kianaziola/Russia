@@ -4,14 +4,15 @@ Kaart is a small team of active mappers contributing to foundational data in Ope
 ### Data Improvement Project Locations
 Kaart has traveled to and provided data improvements in the following countries and metropolitan areas:
 
-- Africa - Comores, Mauritius, Reunion
+- Africa - Comores, Mauritius, Reunion, Morocco, South Africa
 - Caribbean - Dominican Republic, Jamaica, Trinidad & Tobago, Guadeloupe, Martinique, Bahamas, Barbados, Saint Lucia, Curacao, Aruba, Saint Vincent & Grenadines, Grenada, Antigua & Barbuda, Dominica, Cayman Islands, Saint Kitts & Nevis, Sint Maarten, Turks & Caicos, Saint Martin, British Virgin Islands, Bonaire, Anguilla, Saint Barthélemy, Montserrat
 - Central America - Guatemala, Honduras, El Salvador, Belize, Nicaragua, Costa Rica, Panama
 - North America - Baltimore, Maryland
 - South America - Colombia, Ecuador, Guyana, Suriname, French Guiana, Peru, Bolivia, Paraguay, Chile, Argentina, Uruguay
-- Middle East - Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Cyprus
+- Middle East - Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Cyprus, Turkey
 - Asia - Singapore, Hong Kong, Macau, Brunei, Philippines
-- Europe - Denmark, Ukraine, Iceland
+- Europe - Denmark, Ukraine, Iceland, Russia, Serbia, Kosovo, Macedonia, Moldova, Bulgaria, Romania, Bosnia and Herzevgovina, Greece
+
 
 ##  Data Team Guidelines
 In addition to the community rules that all contributors must abide by, the Kaart team implements their own standards which are as follows:
